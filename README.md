@@ -56,7 +56,7 @@ This change utilizes **Bootstrap 4** for style and responsiveness as well as som
 
 * The filter/sort options are much smaller. There are quite a few so I mused on an accordian style hide&show but the current layout should be sufficient.
 
-* The facets have been placed back on the right hand side. When I first dealt with the OPAC, I put them under the search results as I interpereted this as a "Can't find what you are looking fior? Try these!" and less of a filtering option. On mobile, they will still be below the search results as that just makes sense with the limited screen space.
+* The facets have been placed back on the right hand side. When I first dealt with the OPAC, I put them under the search results as I interpereted this as a "Can't find what you are looking for? Try these!" and less of a filtering option. On mobile, they will still be below the search results as that just makes sense with the limited screen space.
 
 * Link/Hover effects on mobile have been changed to be more consistent with the rest of the navigation with hovering indication. This was just a 'bug' in the code.
 
